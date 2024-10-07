@@ -23,6 +23,8 @@ The objective of the game is to guide the snake to eat food and grow longer. The
 - The snake wraps around screen edges, meaning if it crosses one edge, it reappears on the opposite edge (optional, based on settings).
 
 ## Project Demo Pic
+![Snake Game Screenshot](https://github.com/abhi-shek-86/Snake-Game/blob/master/Screenshot%202024-10-07%20211418.png)
+
 
 ### 🍎 Eating Food:
 - Food items appear randomly on the grid as small dark blue circles.
